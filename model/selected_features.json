@@ -1,0 +1,41 @@
+{
+ "features": [
+  "zero_balance_days_90d",
+  "dscr_new",
+  "avg_monthly_net_cashflow_6m",
+  "months_since_last_overdue",
+  "ebit_margin",
+  "tax_paid_on_time_share",
+  "inflow_cv_rel_6m",
+  "revenue_growth_yoy",
+  "top1_counterparty_share",
+  "icr",
+  "new_payment_to_min_inflow_12m",
+  "equity_ratio",
+  "current_overdue_days",
+  "business_age_months",
+  "credit_history_months",
+  "closed_loans_ok_count",
+  "credit_limit_utilization_90d",
+  "industry_risk_group",
+  "owner_overdue_events_24m",
+  "cash_inflow_share_6m",
+  "tax_arrears_to_revenue",
+  "avg_monthly_inflow_6m",
+  "credit_inquiries_3m",
+  "overdue_30plus_flag_24m",
+  "purpose_doc_provided",
+  "rejected_inquiries_12m",
+  "balance_to_inflow",
+  "amount_to_purpose_cost",
+  "active_loans_count",
+  "active_months_12m",
+  "bank_products_count",
+  "inflow_trend",
+  "bank_tenure_months",
+  "loan_product"
+ ],
+ "categorical": [
+  "loan_product"
+ ]
+}
